@@ -1,6 +1,6 @@
-# Welcome To The Lucian Alliance
+#Welcome To The Lucian Alliance
 
-## Simple Bash script to start up a Galacticraft Minecraft server
+##Simple Bash script to start up a Galacticraft Minecraft server
 
 
 1) `chmod +x Dockerrun.sh` to make the script executable 
